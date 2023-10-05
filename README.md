@@ -1,16 +1,9 @@
 # Markdown
 
-# Markdown 教學
-
-> Author: Chris  
-> Date: 2017-02-17  
-
 > 表格生成器：[Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)  
 
 > 線上MarkDown編輯器
 >> [Dillinger](http://dillinger.io/)  
->> [StackEdit](kedit.io)  
->> [Markdown Editor](https://jbt.github.io/markdown-editor/)
 
 ## 一、常用功能
 
